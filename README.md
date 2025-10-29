@@ -1,8 +1,5 @@
 ### Olá! Eu sou a Gabi 👋
 
-- 🌱 Atualmente estou estudando front-end
-- 👯 Estou procurando uma oportunidade como desenvolvedora Jr.
-- 😄 Pronomes: ela/dela
 
 <div
   <a href="https://github.com/diasgabriella">
